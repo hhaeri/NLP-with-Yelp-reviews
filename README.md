@@ -1,6 +1,6 @@
 # Natural Language Processing with Yelp reviews
 ## Objective
-In this project I built Natural Language Models with the Yelp Review Dataset from the [Kaggle website](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset). Unstructured data makes up the vast majority of data.  The objective of this project was to extract the sentiment (positive or negative) and gain insight from review text. To perform Nayural Language Processing of the Yelp Review dataset, I conducted the follwoing stages:
+In this project I built Natural Language Models with the Yelp Review [Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset). Unstructured data makes up the vast majority of data.  The objective of this project was to extract the sentiment (positive or negative) and gain insight from review text. To perform Natural Language Processing of the Yelp Review dataset, I conducted the follwoing stages:
 
 
 *   Built NLP models of increasing complexity (bag of words and bigram models) to predict the rating of a review from its text
